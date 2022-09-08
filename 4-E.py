@@ -8,8 +8,6 @@ print(len(d.values()))
 
 l = list(d.values())
 print(l)
-from collections import Counter
-df = Counter(l)
 m = len(l)
 n = []
 for i in range(m):
