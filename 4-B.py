@@ -11,3 +11,12 @@ for i in range(0,n):
 print(d)
 
 # https://www.geeksforgeeks.org/python-count-occurrences-element-list/
+
+
+#for i in li:
+#    dic[i] = 0
+#for i in li:
+#    dic[i] = dic[i] + 1
+#
+#for i, j in dic.items():
+ #   print("No. %d is present %d times" % (i, j))
